@@ -7,6 +7,13 @@
     android:orientation="vertical"
     tools:context="com.example.android.inclassassignment06.MealPlanner">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Which Meals Have You Eaten?"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:textSize="16dp" />
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
